@@ -24,7 +24,7 @@
     "close-stale-theme-prs": "node scripts/close-stale-theme-prs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "start": "node src/index.js"
+    "start": "node express.js"
   },
   "author": "Anurag Hazra",
   "license": "MIT",
